@@ -1,0 +1,31 @@
+{
+  "name": "ism",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": {
+      "version": "3.5.0",
+      "from": "https://registry.npm.taobao.org/bluebird/download/bluebird-3.5.0.tgz",
+      "resolved": "https://registry.npm.taobao.org/bluebird/download/bluebird-3.5.0.tgz"
+    },
+    "director": {
+      "version": "1.2.8",
+      "from": "director@latest",
+      "resolved": "https://registry.npm.taobao.org/director/download/director-1.2.8.tgz"
+    },
+    "jquery": {
+      "version": "1.12.4",
+      "from": "jquery@1.12.4",
+      "resolved": "https://registry.npm.taobao.org/jquery/download/jquery-1.12.4.tgz"
+    },
+    "lodash": {
+      "version": "4.17.4",
+      "from": "lodash@latest",
+      "resolved": "https://registry.npm.taobao.org/lodash/download/lodash-4.17.4.tgz"
+    },
+    "normalize.css": {
+      "version": "7.0.0",
+      "from": "normalize.css@latest",
+      "resolved": "https://registry.npm.taobao.org/normalize.css/download/normalize.css-7.0.0.tgz"
+    }
+  }
+}
