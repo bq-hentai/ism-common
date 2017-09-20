@@ -1,11 +1,11 @@
 import '../styles/index.styl'
-// import $ from 'jquery'
+import $ from 'jquery'
 // import util from './util'
 import router from '../router'
-import Header from '@/components/header'
+import header from '@/components/header'
 
 router.init()
 
-new Header()
+header.mount($('body'))
 
 export default function main () { }
