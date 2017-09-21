@@ -4,6 +4,9 @@
  */
 
 export default {
+  before: function () {
+    console.log('before kmgr route')
+  },
   on: function () {
     console.log('knowledge management')
   },
