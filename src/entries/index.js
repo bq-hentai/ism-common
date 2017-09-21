@@ -1,10 +1,6 @@
 import '../styles/index.styl'
-// import $ from 'jquery'
-// import util from './util'
 import router from '../router'
-import Header from '@/components/header'
-router.init()
 
-new Header()
+router.init()
 
 export default function main () { }
