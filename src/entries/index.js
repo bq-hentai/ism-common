@@ -6,6 +6,6 @@ import header from '@/components/header'
 
 router.init()
 
-header.mount($('body'))
+header.mount($('.app-header'))
 
 export default function main () { }
