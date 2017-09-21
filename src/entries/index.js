@@ -3,7 +3,6 @@ import '../styles/index.styl'
 // import util from './util'
 import router from '../router'
 import Header from '@/components/header'
-
 router.init()
 
 new Header()
